@@ -1,0 +1,15 @@
+---
+title: third New Post (in R Markdown)
+author: ~
+date: '2017-06-06'
+slug: third-new-post-in-r-markdown
+categories: []
+tags: []
+---
+
+third test
+
+```{r echo=F}
+summary(mtcars)
+```
+
